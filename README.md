@@ -76,3 +76,4 @@ Important links for articles, presentations, videos, repos, etc. that I'm collec
 - [A beginner's guide to Recurrent Networks and LSTMs - DeepLearning4j](https://deeplearning4j.org/lstm)
 - [The Unreasonable Effectiveness of RNNs - Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [Recurrent Neural Network based Language Model - Mikolov et al.](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf)
+- [Supervised Sequence Learning with Recurrent Neural Networks - Alex Graves, University of Toronto](http://www.cs.toronto.edu/~graves/preprint.pdf)
