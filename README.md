@@ -78,3 +78,5 @@ Important links for articles, presentations, videos, repos, etc. that I'm collec
 - [Recurrent Neural Network based Language Model - Mikolov et al.](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf)
 - [Supervised Sequence Learning with Recurrent Neural Networks - Alex Graves, University of Toronto](http://www.cs.toronto.edu/~graves/preprint.pdf)
 - [Recursive Deep Learning for Natural Language Processing and Computer Vision - Richard Socher](https://nlp.stanford.edu/~socherr/thesis.pdf)
+- [Long Short Term Memory in Recurrent Neural Networks - Felix Gers](http://www.felixgers.de/papers/phd.pdf)
+- [A survey on the application of recurrent neural networks to statistical language modeling - De Mulder et al.](http://www.sciencedirect.com/science/article/pii/S088523081400093X)
