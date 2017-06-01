@@ -36,7 +36,7 @@ Important links for articles, presentations, videos, repos, etc. that I'm collec
 - [Deep learning 101](http://beamandrew.github.io/deeplearning/2017/02/23/deep_learning_101_part1.html)
 - [A brief history of neural nets and deep learning](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
 - [On the origin of deep learning](https://arxiv.org/pdf/1702.07800.pdf)
-- [comp.ai.neural-nets newsgroup](ftp://ftp.sas.com/pub/neural/FAQ.html)
+- [comp.ai.neural-nets newsgroup](ftp.sas.com/pub/neural/FAQ.html)
 - [Ask Me Anything - Ankit Kumary et al.](https://arxiv.org/abs/1506.07285)
 - [Efficient BackProp - Yann LeCun](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 - (SO) [Comprehensive list of activation functions](https://stats.stackexchange.com/questions/115258/comprehensive-list-of-activation-functions-in-neural-networks-with-pros-cons)
