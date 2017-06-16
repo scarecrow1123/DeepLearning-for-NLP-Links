@@ -42,6 +42,7 @@ Important links for articles, presentations, videos, repos, etc. that I'm collec
 - (SO) [Comprehensive list of activation functions](https://stats.stackexchange.com/questions/115258/comprehensive-list-of-activation-functions-in-neural-networks-with-pros-cons)
 - [Types of Optimizers](http://sebastianruder.com/optimizing-gradient-descent/)
 - [Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
+- [Exploring the limits of Language Modeling](https://arxiv.org/pdf/1602.02410.pdf)
 
 ##### Possible good resources on ML/DL
 - [Alex Minnaar Machine Learning](http://alexminnaar.com/)
