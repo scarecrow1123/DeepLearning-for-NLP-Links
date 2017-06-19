@@ -1,4 +1,4 @@
-# NLP-with-Deep-Learning---Links
+# Deep Learning For NLP - Links
 Important links for articles, presentations, videos, repos, etc. that I'm collecting related to NLP + Deep Learning
 
 #### NLP & Neural Networks/Deep Learning
