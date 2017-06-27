@@ -43,6 +43,7 @@ Important links for articles, presentations, videos, repos, etc. that I'm collec
 - [Types of Optimizers](http://sebastianruder.com/optimizing-gradient-descent/)
 - [Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
 - [Exploring the limits of Language Modeling](https://arxiv.org/pdf/1602.02410.pdf)
+- [A primer on Neural Network Models for Natural Language Processing - Yuav Goldberg](https://arxiv.org/pdf/1510.00726.pdf)
 
 ##### Possible good resources on ML/DL
 - [Alex Minnaar Machine Learning](http://alexminnaar.com/)
