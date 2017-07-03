@@ -72,6 +72,7 @@ Important links for articles, presentations, videos, repos, etc. that I'm collec
 - [Deep Learning for answer sentence selection](https://arxiv.org/pdf/1412.1632.pdf)
 - [Microsoft WikiQA: A Challenge Dataset for Open-Domain Question Answering](https://www.microsoft.com/en-us/research/publication/wikiqa-a-challenge-dataset-for-open-domain-question-answering/)
 - [Intro to deep learning for q&a](https://www.slideshare.net/TraianRebedea/intro-to-deep-learning-for-auestion-answering)
+- [A Knowledge-grounded neural conversational model](https://arxiv.org/pdf/1702.01932.pdf)
 ##### RNN:
 - [A critical review of Recurrent Neural Networks for Sequence Learning - Lipton et al.](https://arxiv.org/pdf/1506.00019.pdf)
 - [Visualizing and Understanding Recurrent Networks - Karpathy et al.](https://arxiv.org/pdf/1506.02078.pdf)
