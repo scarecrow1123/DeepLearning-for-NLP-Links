@@ -75,7 +75,7 @@ Important links for articles, presentations, videos, repos, etc. that I'm collec
 - [A Knowledge-grounded neural conversational model](https://arxiv.org/pdf/1702.01932.pdf)
 - [Improved Representation Learning for Question Answer Matching](http://www.aclweb.org/anthology/P16-1044)
 - [End to End Long Short Term Memory Networks for Non-Factoid Question Answering](https://ciirpublications.cs.umass.edu/getpdf.php?id=1228)
-- [https://github.com/UKPLab/acl2017-non-factoid-qa/](End-to-End Non-Factoid Question Answering with an Interactive Visualization of Neural Attention Weights)
+- [End-to-End Non-Factoid Question Answering with an Interactive Visualization of Neural Attention Weights](https://github.com/UKPLab/acl2017-non-factoid-qa/)
 ##### RNN:
 - [A critical review of Recurrent Neural Networks for Sequence Learning - Lipton et al.](https://arxiv.org/pdf/1506.00019.pdf)
 - [Visualizing and Understanding Recurrent Networks - Karpathy et al.](https://arxiv.org/pdf/1506.02078.pdf)
